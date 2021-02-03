@@ -3,7 +3,7 @@
   "lockfileVersion": 1,
   "scripts": {
     "start": "node index.js"
-  }
+  },
   "dependencies": {
     "nodemailer": {
       "version": "6.4.17",
