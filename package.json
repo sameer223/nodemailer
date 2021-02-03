@@ -1,9 +1,10 @@
 {
-  "requires": true,
-  "lockfileVersion": 1,
-  "scripts": {
+"scripts": {
     "start": "node index.js"
   },
+
+  "requires": true,
+  "lockfileVersion": 1,
   "dependencies": {
     "nodemailer": {
       "version": "6.4.17",
